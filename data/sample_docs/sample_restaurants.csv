@@ -1,0 +1,8 @@
+restaurant,zone,cuisine,cost,rating,online_ordering
+Spice Route,BTM,North Indian,450,4.2,Yes
+Curry House,Koramangala,South Indian,320,3.9,No
+Noodle Bar,Indiranagar,Chinese,550,4.5,Yes
+Pizza Place,BTM,Italian,600,4.1,Yes
+Tandoor Nights,Whitefield,North Indian,700,4.6,No
+Dosa Corner,BTM,South Indian,200,3.7,No
+Sushi Spot,Koramangala,Japanese,900,4.8,Yes
